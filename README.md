@@ -1,2 +1,2 @@
 # Instant-Dictionary-API
-This is a api of an instant dictionary
+## This is an API of an instant dictionary
